@@ -1,0 +1,41 @@
+/* колір основного тексту: #212121; */
+/* другорядний колір тексту: #757575;*/
+/* акцент: #2196F3;*/
+/* білий колір:#FFFFFF;*/
+:root{
+
+    --accent-color:#2196F3;
+}
+body{
+    background-color: #F5F5F5;;
+    color: ;
+
+}
+
+.header{
+color:#FFFFFF;
+}
+
+.logo{
+color:#000000;
+}
+
+.list{
+    list-style: none;
+}
+
+.site-nav .link{
+color: #212121;
+}
+.site-nav .link:hover,
+.site-nav .link:focus{
+    color: #2196F3;
+}
+
+.info-nav .info-link{
+color:#757575
+}
+.info-nav .info-link:hover {
+    color:#2196F3;
+}
+
