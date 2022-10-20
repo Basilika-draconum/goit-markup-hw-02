@@ -64,6 +64,9 @@ body{
     color:var(--accent-color);
 }
 
+.current:visited{
+    color: var(--accent-color);
+}
 /* Main content */
 
 /* Hero */
