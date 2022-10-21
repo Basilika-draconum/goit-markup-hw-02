@@ -166,7 +166,7 @@ background-color: #2F303A;
 
 .address-nav .link:hover,
 .address-nav .link:focus{
-    color: #FFFFFF;
+    color: var(--accent-color);
 }
 
 /* Portfolio */
