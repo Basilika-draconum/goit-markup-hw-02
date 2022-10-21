@@ -169,6 +169,9 @@ background-color: #2F303A;
     color: var(--accent-color);
 }
 
+.address-nav .link-address{
+    color: #FFFFFF;
+}
 /* Portfolio */
 .filter{
 
