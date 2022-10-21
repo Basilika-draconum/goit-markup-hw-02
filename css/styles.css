@@ -113,6 +113,7 @@ background-color: #F5F5F5;;
 
 .advantages .item{
     color: var(--primary-text-color);
+    font-size: 14px;
     font-weight: 700;
     line-height: 1.14;
     text-transform: uppercase;
